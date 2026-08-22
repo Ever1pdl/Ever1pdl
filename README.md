@@ -16,3 +16,17 @@ Linguagens e ferramentas
  width="40px"
  src="https://devicon-website.vercel.app/api/html5/original.svg"
 />
+<img 
+ align="left"
+ title="CSS3"
+ alt="CSS3"
+ width="40px"
+ src="https://devicon-website.vercel.app/api/css3/original.svg"
+/>
+<img 
+ align="left"
+ title="JS"
+ alt="JavaScript"
+ width="40px"
+ src="https://devicon-website.vercel.app/api/javascript/original.svg"
+/>
