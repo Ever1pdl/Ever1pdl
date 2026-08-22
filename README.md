@@ -35,3 +35,10 @@
  width="40px"
  src="https://devicon-website.vercel.app/api/python/original.svg"
 />
+<img 
+ align="left"
+ title="SQLite"
+ alt="SQLite"
+ width="40px"
+ src="https://devicon-website.vercel.app/api/sqlite/original.svg"
+/>
