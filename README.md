@@ -3,12 +3,10 @@
 **`Estudante de desenvolvimento de sistemas`** 
 
 ---
- Sobre mim
+### Sobre mim
  
 ---
-Linguagens e ferramentas 
-
----
+### Linguagens e ferramentas 
 <img 
  align="left"
  title="HTML5"
@@ -29,4 +27,11 @@ Linguagens e ferramentas
  alt="JavaScript"
  width="40px"
  src="https://devicon-website.vercel.app/api/javascript/original.svg"
+/>
+<img 
+ align="left"
+ title="Py"
+ alt="Python"
+ width="40px"
+ src="https://devicon-website.vercel.app/api/python/original.svg"
 />
