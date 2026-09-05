@@ -42,7 +42,7 @@
  width="40px"
  src="https://devicon-website.vercel.app/api/sqlite/original.svg"
 />
-
+<br>
 <br>
 <br>
 <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Ever1pdl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
