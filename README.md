@@ -3,10 +3,10 @@
 **`Estudante de desenvolvimento de sistemas`** 
 
 ---
-### Sobre mim
+### 👤 Sobre mim
  
 ---
-### Linguagens e ferramentas 
+### ⚒️ Linguagens e ferramentas 
 <img 
  align="left"
  title="HTML5"
@@ -43,10 +43,15 @@
  src="https://devicon-website.vercel.app/api/sqlite/original.svg"
 />
 
+<br/>
+
+---
+### 📊 Status
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Ever1pdl&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
-<br>
-<br>
-<br>
+<br/>
 <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Ever1pdl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
 />
+
+---
