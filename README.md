@@ -42,6 +42,9 @@
  width="40px"
  src="https://devicon-website.vercel.app/api/sqlite/original.svg"
 />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ever1pdl&show_icons=true&theme=tokyonight&locale=pt-br"/>
+
 <br>
 <br>
 <br>
