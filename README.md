@@ -4,7 +4,9 @@
 
 ---
 ### 👤 Sobre mim
- 
+ - 🏫 Cursando o **2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas**
+- 🎯 Buscando oportunidade como **Jovem Aprendiz** ou **Estagiário** nas áreas de Tecnologia, RH ou administração
+- 🗣️ Habilidades em **comunicação, liderança e resolução de problemas** (Representante de classe por 3 mandatos)
 ---
 ### ⚒️ Linguagens e ferramentas 
 <img 
