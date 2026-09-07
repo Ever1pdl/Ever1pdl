@@ -57,3 +57,9 @@
 />
 
 ---
+### 🌐 Contatos
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://portifolio.gameprolazaro.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lazaro-henrique-tonelli-silva-b225743b5)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazarohts.dev@gmail.com)
+
+---
