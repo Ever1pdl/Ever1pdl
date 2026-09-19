@@ -60,7 +60,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=Ever1pdl&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=Minhas%20estat%C3%ADsticas%20&show_icons=true&include_all_commits=true&theme=transparent"
 />
 <br/>
-<img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Ever1pdl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ever1pdl&layout=compact&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Ever1pdl&layout=compact&theme=transparent"
 />
 
 ---
