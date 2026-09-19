@@ -57,7 +57,7 @@
 ---
 ### 📊 Status
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ever1pdl&show_icons=true&theme=tokyonight&locale=pt-br"
+<img src="https://github-stats-extended.vercel.app/api?username=Ever1pdl"
 />
 <br/>
 <img src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Ever1pdl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
